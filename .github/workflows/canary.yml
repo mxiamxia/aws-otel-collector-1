@@ -11,7 +11,7 @@
 # express or implied. See the License for the specific language governing
 # permissions and limitations under the License.
 
-name: 'canary test'
+name: 'Canary Test'
 on:
   schedule:
     - cron: '* */1 * * *' # triggers the workflow every hour
